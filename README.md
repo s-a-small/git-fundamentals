@@ -11,7 +11,7 @@ Comics](http://www.phdcomics.com/comics/archive.php?comicid=1531).
 
 1. What is Git?
     - A version control system, collaboration tool, and general awesomesauce.
-    - If you forget today, click "Help" at the top of any GitHub page
+    - If you forget today, click "[Help](https://help.github.com/)" at the top of any GitHub page
 2. What is GitHub?
     - It's a web app
     - There's also a desktop app
